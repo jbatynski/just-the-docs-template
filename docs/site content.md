@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Ways to Handle Unresponsive Subject Matter Experts (SMEs) <!-- omit in toc -->
-![Alt text](aa246608b3b3fe34728bd118d7d0e938-1.jpg)
+![Alt text](../images/aa246608b3b3fe34728bd118d7d0e938-1.jpg)
 - [Introduction](#introduction)
 - [Cooperation with SMEs: Essential for Several Reasons](#cooperation-with-smes-essential-for-several-reasons)
 - [Challenges of Working with SMEs](#challenges-of-working-with-smes)
